@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @gleepeach
 - 👀 I’m interested in trying to get into programming.
 - 🌱 I’m currently learning information management.
-- 💞️ I’m looking to collaborate on aynthing
-- 📫 How to reach me when I don't know anything
+- 💞️ I’m looking to collaborate on anything
+- 📫 I'm clueles. Okay that's all.
 
 <!---
 gleepeach/gleepeach is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
